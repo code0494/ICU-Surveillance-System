@@ -1,0 +1,5 @@
+train: D:/Syf/face_rec/icu/custom_data_flowChart/train/images
+val: D:/Syf/face_rec/icu/custom_data_flowChart/train/images
+
+nc: 5
+names: ['Eclipse', 'Parallelogram', 'Rectangle', 'Rhombus', 'Connector']
